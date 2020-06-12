@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Brian Antonelli "brian.antonelli@coxautoinc.com"
+MAINTAINER Christos Sarakasidis "christos.saraka@hotmail.com"
 
 RUN apt-get update -y && \
   apt-get install -y \
