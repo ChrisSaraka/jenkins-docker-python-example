@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-MAINTAINER Christos Sarakasidis "christos.saraka@hotmail.com"
 
 RUN apt-get update -y && \
   apt-get install -y \
